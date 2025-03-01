@@ -20,6 +20,7 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![UltraMsg](https://img.shields.io/badge/UltraMsg-339933?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
 - **Intereses**: LLM, HuggingFace, Ollama
@@ -30,8 +31,8 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
 
 ### 🔹 [Karla-IA](https://github.com/frand-lebaza/agente-langchain)
-📌 Asistente virtual que ayuda al usuario a agendar citas para servicios en el sector de belleza.  
-🛠️ Tecnologías utilizadas: `Langchain`, `OpenAI`, `LangGraph`, `DRF`  
+📌 Asistente virtual que ayuda al usuario a agendar citas para servicios en el sector de belleza a través de WhatsApp.  
+🛠️ Tecnologías utilizadas: `Langchain`, `OpenAI`, `LangGraph`, `DRF`, `UltraMsg`
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frand-lebaza&show_icons=true&theme=radical)
