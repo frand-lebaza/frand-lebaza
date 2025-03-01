@@ -3,7 +3,7 @@
 ## 🚀 Sobre mí
 Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de IA y automatización.
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=dark) 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
 
 ## 🛠️ Tecnologías y Herramientas 
 
@@ -23,6 +23,8 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![UltraMsg](https://img.shields.io/badge/UltraMsg-339933?style=for-the-badge&logo=whatsapp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 - **Intereses**: LLM, HuggingFace, Ollama
@@ -38,9 +40,9 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 
 ## 📊 Estadísticas de GitHub
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=radical)
 
 ## 🌎 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/frand-lebaza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://tu-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:frandlebaza@gmail.com)
