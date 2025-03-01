@@ -3,7 +3,7 @@
 ## 🚀 Sobre mí
 Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de IA y automatización.
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=dark) 
 
 ## 🛠️ Tecnologías y Herramientas 
 
@@ -38,7 +38,7 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 
 ## 📊 Estadísticas de GitHub
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=dark)
 
 ## 🌎 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
