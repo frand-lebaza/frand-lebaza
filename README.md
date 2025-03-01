@@ -25,11 +25,11 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 - **Intereses**: LLM, HuggingFace, Ollama
 
 ## 📂 Proyectos Destacados
-### 🔹 [Inventory](enlace-al-repo)
+### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
 📌 Software de inventario de equipos industriales y sus mantenimientos.  
 🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
 
-### 🔹 [Karla-IA](enlace-al-repo)
+### 🔹 [Karla-IA](https://github.com/frand-lebaza/agente-langchain)
 📌 Asistente virtual que ayuda al usuario a agendar citas para servicios en el sector de belleza.  
 🛠️ Tecnologías utilizadas: `Langchain`, `OpenAI`, `LangGraph`, `DRF`  
 
