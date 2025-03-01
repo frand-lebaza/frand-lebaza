@@ -3,6 +3,8 @@
 ## 🚀 Sobre mí
 Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de IA y automatización.
 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
+
 ## 🛠️ Tecnologías y Herramientas 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +37,8 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 🛠️ Tecnologías utilizadas: `Langchain`, `OpenAI`, `LangGraph`, `DRF`, `UltraMsg`
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frand-lebaza&show_icons=true&theme=radical)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=radical)
 
 ## 🌎 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
