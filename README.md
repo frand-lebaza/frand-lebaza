@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Frand Lebaza
 
-## 🚀 Sobre mí
-Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de IA y automatización.
+Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de agentes IA.
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
 
@@ -24,7 +23,6 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![UltraMsg](https://img.shields.io/badge/UltraMsg-339933?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 
 - **Intereses**: LLM, HuggingFace, Ollama
