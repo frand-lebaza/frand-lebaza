@@ -2,8 +2,6 @@
 
 Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de agentes IA.
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
-
 ## 🛠️ Tecnologías y Herramientas 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +10,6 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -26,6 +23,8 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 
 
 - **Intereses**: LLM, HuggingFace, Ollama
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
 
 ## 📂 Proyectos Destacados
 ### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
