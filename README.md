@@ -29,7 +29,7 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ## 📂 Proyectos Destacados
 
 ### 🔹 [IA-Book](https://github.com/frand-lebaza/ia-book)
-📌 Agente IA que asesora, agenda, guía y consulta citas de un usuario para servicios en el sector de la salud a través de WhatsApp, conectado a un software y DB externas.  
+📌 Agente IA que asesora, agenda, guía y consulta citas de un usuario para servicios en el sector de la salud a través de WhatsApp, capaz de conectarse a cualquier software externo a través de APIs.  
 🛠️ Tecnologías utilizadas: `Python`, `Langchain`, `OpenAI`, `LangSmith`, `DRF`, `UltraMsg`
 
 ### 🔹 [Karla-IA](https://github.com/frand-lebaza/agente-langchain)
