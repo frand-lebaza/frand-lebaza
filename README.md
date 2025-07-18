@@ -27,13 +27,18 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
 
 ## 📂 Proyectos Destacados
-### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
-📌 Software de inventario de equipos industriales y sus mantenimientos.  
-🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
+
+### 🔹 [IA-Book](https://github.com/frand-lebaza/ia-book)
+📌 Agente IA que asesora, agenda, guía y consulta citas de un usuario para servicios en el sector de la salud a través de WhatsApp, conectado a un software y DB externas.  
+🛠️ Tecnologías utilizadas: `Python`, `Langchain`, `OpenAI`, `LangSmith`, `DRF`, `UltraMsg`
 
 ### 🔹 [Karla-IA](https://github.com/frand-lebaza/agente-langchain)
 📌 Asistente virtual que ayuda al usuario a agendar citas para servicios en el sector de belleza a través de WhatsApp.  
-🛠️ Tecnologías utilizadas: `Langchain`, `OpenAI`, `LangGraph`, `DRF`, `UltraMsg`
+🛠️ Tecnologías utilizadas: `Python`, `Langchain`, `OpenAI`, `LangGraph`, `DRF`, `UltraMsg`
+
+### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
+📌 Software de inventario de equipos industriales y sus mantenimientos.  
+🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
 
 ## 📊 Estadísticas de GitHub
  
