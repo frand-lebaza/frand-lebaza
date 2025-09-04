@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Frand Lebaza
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e60f4436-3212-4745-9727-958cf6c90c51" />
 
-Desarrollador de software full stack. Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de agentes IA.
+Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de agentes IA.
 
 ## 🛠️ Tecnologías y Herramientas 
 
@@ -46,5 +46,5 @@ Desarrollador de software full stack. Apasionado por la inteligencia artificial 
 
 ## 🌎 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/frand-lebaza)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://frandlebaza.com)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:frandlebaza@gmail.com)
