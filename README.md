@@ -1,6 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e60f4436-3212-4745-9727-958cf6c90c51" />
 
-Apasionado por la inteligencia artificial y la integración de agentes conversacionales. Actualmente trabajando en proyectos de agentes IA.
+Desarrollador de software en formación continua, actualmente enfocado en aprender e implementar soluciones de inteligencia artificial y agentes conversacionales. Me gusta explorar cómo los agentes conversacionales pueden transformar la interacción humano-máquina.
 
 ## 🛠️ Tecnologías y Herramientas 
 
