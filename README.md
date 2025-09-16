@@ -28,14 +28,6 @@ Entusiasta de la programación en formación continua, actualmente enfocado en a
 
 ## 📂 Proyectos Destacados
 
-### 🔹 [IA-Book](https://github.com/frand-lebaza/ia-book)
-📌 Agente IA que asesora, agenda, guía y consulta citas de un usuario para servicios en el sector de la salud a través de WhatsApp, capaz de conectarse a cualquier software externo a través de APIs.  
-🛠️ Tecnologías utilizadas: `Python`, `Langchain`, `OpenAI`, `LangSmith`, `DRF`, `UltraMsg`
-
-### 🔹 [Karla-IA](https://github.com/frand-lebaza/agente-langchain)
-📌 Asistente virtual que ayuda al usuario a agendar citas para servicios en el sector de belleza a través de WhatsApp.  
-🛠️ Tecnologías utilizadas: `Python`, `Langchain`, `OpenAI`, `LangGraph`, `DRF`, `UltraMsg`
-
 ### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
 📌 Software de inventario de equipos industriales y sus mantenimientos.  
 🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
