@@ -2,25 +2,30 @@
 
 Entusiasta de la programación en formación continua, actualmente enfocado en aprender e implementar soluciones de inteligencia artificial y agentes conversacionales. Me gusta explorar cómo los agentes conversacionales pueden transformar la interacción humano-máquina.
 
-## 🛠️ Tecnologías y Herramientas 
+## 🛠️ Tecnologías y Herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![UltraMsg](https://img.shields.io/badge/UltraMsg-339933?style=for-the-badge&logo=whatsapp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+```json
+{
+  "CurrentlyWorkingOn": {
+    "Role": "Desarrollador de agentes conversacionales",
+    "Focus": ["LangGraph", "LangChain", "LLM APIs"]
+  },
+  "Languages": ["JavaScript", "TypeScript", "Python"],
+  "Technologies": {
+    "FrontEnd": {
+      "JavaScript": ["React", "React Native", "Vue"],
+      "CSS": ["Tailwind", "Styled-Components"]
+    },
+    "BackEnd": {      
+      "JavaScript": ["NodeJS", "Express"],
+      "Python": ["Django", "Django Rest Framework"]
+    },
+    "Databases": ["MySQL", "PostgreSQL"],
+    "VersionControl": ["Git", "GitHub", "GitLab"]    
+  }
+}
 
+```
 
 - **Intereses**: LLM, HuggingFace, Ollama
 
