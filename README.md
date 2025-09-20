@@ -31,17 +31,8 @@ Entusiasta de la programación en formación continua, actualmente enfocado en a
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frand-lebaza&theme=radical) 
 
-## 📂 Proyectos Destacados
-
-### 🔹 [Inventory](https://github.com/frand-lebaza/inventorySMFL)
-📌 Software de inventario de equipos industriales y sus mantenimientos.  
-🛠️ Tecnologías utilizadas: `JavaScript`, `NodeJs`, `React`, `MySql`, `Styled-components`, `MaterialUI`   
-
 ## 📊 Estadísticas de GitHub
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-lebaza&layout=compact&theme=radical)
 
-## 🌎 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/frand-lebaza)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://frandlebaza.com)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:frandlebaza@gmail.com)
+
