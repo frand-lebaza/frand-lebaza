@@ -1,6 +1,6 @@
 <img width="1326" height="240" alt="github-header-fl" src="https://github.com/user-attachments/assets/3dead9d0-d571-4bd1-a7bb-78c720262744" />
 
-Entusiasta de la programación en formación continua, actualmente enfocado en aprender e implementar soluciones de inteligencia artificial y agentes conversacionales. Me gusta explorar cómo los agentes conversacionales pueden transformar la interacción humano-máquina.
+Entusiasta de la programación en formación continua, actualmente enfocado en aprender e implementar soluciones de inteligencia artificial y agentes conversacionales. Me gusta explorar cómo los agentes IA pueden transformar la interacción humano-máquina.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -17,7 +17,7 @@ Entusiasta de la programación en formación continua, actualmente enfocado en a
       "CSS": ["Tailwind", "Styled-Components"]
     },
     "BackEnd": {      
-      "JavaScript": ["NodeJS", "Express"],
+      "JavaScript": ["NodeJS"],
       "Python": ["Django", "Django Rest Framework"]
     },
     "Databases": ["MySQL", "PostgreSQL"],
